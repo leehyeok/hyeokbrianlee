@@ -92,4 +92,10 @@
 				});
 
 			}
+<<<<<<< HEAD
 })(jQuery);
+=======
+
+
+})(jQuery);
+>>>>>>> cfabd1be6d6b909edff2b77f28a34bdcac5afbe9
